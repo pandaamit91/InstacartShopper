@@ -1,0 +1,17 @@
+.app-row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.app-form{
+    background-color: #DCDCDC;
+	float: none;
+    margin: 0 auto;
+	margin-top: 50px;
+	padding-right: 15px;
+    padding-left: 15px;
+	position: relative;
+}
+.app-form-header{
+	text-align: center;
+	margin: 20px 0px;
+}
